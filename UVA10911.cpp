@@ -1,4 +1,8 @@
 //forming quiz team UVA
+
+// I kinda forgot all the bitmask methods but the book told me to solve this problem at the very beginning :)))
+// So it will be completed in the future
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
