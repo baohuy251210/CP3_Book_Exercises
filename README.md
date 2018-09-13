@@ -6,7 +6,9 @@ I'm feeling like putting efford into Competitive Programming again!. That's why 
 
 - I'm not that good of a coder, but hope that I will get a lot out from this book. 
 
-Those codes that I upload will include C++ and maybe Java as well, the book recommend solving in Java sometimes because of it's powerful built-in libraries
+Those codes that I uploaded will include C++ and maybe Java as well, the book recommend solving in Java sometimes because of it's powerful built-in libraries.
+
+- For the Books' download, I won't publish them. Still, they are all over the internet if you want to find.
 
 # Review about first chapter
 - No kidding, the book's content is actually hard, the authors seem to expect readers to have known most of the basic algorithmms; they do recommend "Introduction to Algorithms" as basic knowledge. Plus, it looks like the book is more about the implementing algorithms and data structures than explaining them. 
